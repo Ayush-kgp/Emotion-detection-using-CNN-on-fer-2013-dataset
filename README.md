@@ -18,7 +18,7 @@ git clone https://github.com/Ayush-kgp/Emotion-detection-using-CNN-on-fer-2013-d
 pip install -r requirements.txt
 
 
-## 🚀 Usage
+##  Usage
 Run the emotion detection script:  
 python src/emotion_app.py
 
